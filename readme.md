@@ -1,15 +1,17 @@
 # Facebook-simple-bot
 
 ## requirements
-python3.6
+- python3.6
+- ngrok
 
+## how to set up
+
+### install packages
 - in your python virtualenv
 
 ```sh
 $ python install -r requirements.txt
 ```
-
-## how to set up
 
 ###  generate random verify token
 
